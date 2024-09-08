@@ -1,43 +1,42 @@
 [
-    {
-      "id": "001",
-      "cover-img": "https://i.ibb.co/1JyrqGB/1.jpg",
-      "title": "The Journey Through Time",
-      "read-times": 3456,
-      "posted-date": "2024-08-15",
-      "hashtags": ["#Adventure", "#TimeTravel", "#Fiction"],
-      "author": "Jane Doe",
-      "author-img": "https://i.ibb.co/BsNQ5B0/boy1.png"
-    },
-    {
-      "id": "002",
-      "cover-img": "https://i.ibb.co/N3GT0c7/2.png",
-      "title": "Secrets of the Ocean",
-      "read-times": 5120,
-      "posted-date": "2024-07-12",
-      "hashtags": ["#Mystery", "#OceanLife", "#Nature"],
-      "author": "John Smith",
-      "author-img": "https://i.ibb.co/MP2V3kh/boy2.jpg"
-    },
-    {
-      "id": "003",
-      "cover-img": "https://i.ibb.co/5Tz4Nps/3.png",
-      "title": "Beyond the Stars",
-      "read-times": 7892,
-      "posted-date": "2024-09-01",
-      "hashtags": ["#SciFi", "#Space", "#Astronomy"],
-      "author": "Alice Johnson",
-      "author-img": "https://i.ibb.co/FWTc2Pc/girl1.jpg"
-    },
-    {
-      "id": "004",
-      "cover-img": "https://i.ibb.co/9WWtyNH/4.jpg",
-      "title": "Whispers of the Forest",
-      "read-times": 6234,
-      "posted-date": "2024-06-18",
-      "hashtags": ["#Fantasy", "#Magic", "#Nature"],
-      "author": "Mark Lee",
-      "author-img": "https://i.ibb.co/hCNKyGX/girl2.jpg"
-    }
-  ]
-  
+  {
+    "id": "001",
+    "cover": "https://i.ibb.co/1JyrqGB/1.jpg",
+    "title": "The Journey Through Time",
+    "readTimes": 3456,
+    "postedDate": "2024-08-15",
+    "hashtags": ["#Adventure", "#TimeTravel", "#Fiction"],
+    "author": "Jane Doe",
+    "authorImg": "https://i.ibb.co/BsNQ5B0/boy1.png"
+  },
+  {
+    "id": "002",
+    "cover": "https://i.ibb.co/N3GT0c7/2.png",
+    "title": "Secrets of the Ocean",
+    "readTimes": 5120,
+    "postedDate": "2024-07-12",
+    "hashtags": ["#Mystery", "#OceanLife", "#Nature"],
+    "author": "John Smith",
+    "authorImg": "https://i.ibb.co/MP2V3kh/boy2.jpg"
+  },
+  {
+    "id": "003",
+    "cover": "https://i.ibb.co/5Tz4Nps/3.png",
+    "title": "Beyond the Stars",
+    "readTimes": 7892,
+    "postedDate": "2024-09-01",
+    "hashtags": ["#SciFi", "#Space", "#Astronomy"],
+    "author": "Alice Johnson",
+    "authorImg": "https://i.ibb.co/FWTc2Pc/girl1.jpg"
+  },
+  {
+    "id": "004",
+    "cover": "https://i.ibb.co/9WWtyNH/4.jpg",
+    "title": "Whispers of the Forest",
+    "readTimes": 6234,
+    "postedDate": "2024-06-18",
+    "hashtags": ["#Fantasy", "#Magic", "#Nature"],
+    "author": "Mark Lee",
+    "authorImg": "https://i.ibb.co/hCNKyGX/girl2.jpg"
+  }
+]
